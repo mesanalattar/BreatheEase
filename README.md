@@ -95,6 +95,15 @@ https://github.com/user-attachments/assets/75c3f447-94b2-4e25-8bb5-a1eeaa8f1cd2
 <img width="1242" height="2208" alt="5" src="https://github.com/user-attachments/assets/aa190b05-a21d-4228-9067-fe9dc98524ab" />
 
 
+---
+
+## 🧪 Simulation (Tinkercad)
+
+You can test the project online using the simulator:
+
+🔗 [Open Simulation](https://www.tinkercad.com/things/iMx9gcwArxP-breatheease)
+
+This allows users to interact with the circuit and understand how the system works without physical hardware.
 
 ---
 
