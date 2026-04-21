@@ -75,6 +75,14 @@ The system is programmed using Arduino C++ and works as follows:
 
 ---
 
+## 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/75c3f447-94b2-4e25-8bb5-a1eeaa8f1cd2
+
+
+---
+
 ## 📸 Demo
 <img width="1280" height="1706" alt="1" src="https://github.com/user-attachments/assets/076649e3-62da-4afa-a494-6743a4deb795" />
 
